@@ -15,10 +15,6 @@
 ### OSes:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) 
 
-## Current projects
-[Chromia](https://github.com/SufremOak/Chromia)
-[Chunix](https://github.com/SufremOak/chuunix)
-
 <!--
 **SufremOak/SufremOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
