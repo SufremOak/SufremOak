@@ -15,6 +15,8 @@
 ### OSes:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SufremOak&theme=nord&show_icons=true&hide_border=true&count_private=true)
+
 <!--
 **SufremOak/SufremOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
